@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Medidores App</string>
+    <string name="add_reading">Agregar Lectura</string>
+    <string name="save">Guardar</string>
+    <string name="type_water">Agua</string>
+    <string name="type_electricity">Luz</string>
+    <string name="type_gas">Gas</string>
+    <string name="reading_value">Valor de la lectura</string>
+    <string name="select_type">Seleccionar tipo</string>
+    <string name="readings_list">Lista de Lecturas</string>
+</resources>

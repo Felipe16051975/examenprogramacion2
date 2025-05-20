@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meters App</string>
+    <string name="add_reading">Add Reading</string>
+    <string name="save">Save</string>
+    <string name="type_water">Water</string>
+    <string name="type_electricity">Electricity</string>
+    <string name="type_gas">Gas</string>
+    <string name="reading_value">Reading value</string>
+    <string name="select_type">Select type</string>
+    <string name="readings_list">Readings List</string>
+</resources>
